@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning PHP<br>🤝 I’m interested in Web Development <br><br><br>
+🌱 I’m currently learning C#<br>🤝 I’m interested in Game Development <br><br><br>
 
 
 ## 🌐 Socials:
