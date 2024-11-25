@@ -26,6 +26,3 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurKucukoz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11184034050&cover_image=true&theme=novatorem&bar_color=24b71f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11184034050&redirect=true)
