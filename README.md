@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 # 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurKucukoz&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnurKucukoz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
